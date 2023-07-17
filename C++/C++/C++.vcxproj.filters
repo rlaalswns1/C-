@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Class CPP">
+      <UniqueIdentifier>{1331c97d-0d64-4b2e-bf2f-455a06377a49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Class Header">
+      <UniqueIdentifier>{3c77835f-16a4-400d-8a00-e5d1573cb046}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Computer.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Divice.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="iPhone.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Keyboard.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Sword.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Marine.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Ghost.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Tiger.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Carnivore.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+    <ClCompile Include="Lion.cpp">
+      <Filter>Source Files\Class CPP</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="(2023.06.12)입출력.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C++뜻.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="문제.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.06.13)name space.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.06.14)Class.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.06.15)생성자 &amp; 소멸자.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="DataFile.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Stdafx.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="%282023.06.16%29깊은 복사 &amp; 깊은 복사.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iPhone.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Computer.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyboard.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Divice.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.06.20)다중 상속.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.06.21)함수의 오버로딩.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Sword.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Marine.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="%282023.06.23%29순수 가상 함수.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.06.22)가상 함수.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ghost.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.06.26)UP-Casting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.06.28)템플릿.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animal.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Carnivore.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Tiger.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Lion.h">
+      <Filter>Header Files\Class Header</Filter>
+    </ClInclude>
+    <ClInclude Include="%282023.06.29%29예외 처리.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.06.30)다운 캐스팅.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.07.03)선형 컨테이너.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.07.04)문자열 클래스.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.07.05)컨테이너 어댑터.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="(2023.07.06)연관 컨테이너.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="%282023.06.19%29상속.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="%282023.06.27%29스마트 포인터.h">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
